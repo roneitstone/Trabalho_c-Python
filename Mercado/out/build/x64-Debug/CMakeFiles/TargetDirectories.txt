@@ -1,0 +1,5 @@
+C:/dev/cpp/Mercado/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/dev/cpp/Mercado/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/dev/cpp/Mercado/out/build/x64-Debug/Mercado/CMakeFiles/Mercado.dir
+C:/dev/cpp/Mercado/out/build/x64-Debug/Mercado/CMakeFiles/edit_cache.dir
+C:/dev/cpp/Mercado/out/build/x64-Debug/Mercado/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+Programa com o objetivo de simular um gerenciador de estoque de uma grande loja
+
+Autor : Eduardo Bruno Martins Esperanca
+
+
+Instrucoes para uso:
+
+    Se você esta em linux ou Mac OS:    Para compilar o programa, escreva make no terminal.
+    Se você esta em Windows: Para compilar o programa, escreva ./make no terminal.
+    Após compilar tudo, execute o arquivo rede.exe.
+
+    Dentro do programa você terá as seguintes opções:
+
+    Caso digite 1 - Mostra os produtos recém pesquisados que ficaram no cache, sendo esse utilizado para evitar acessos desnecessários ao estoque (alguns produtos já estão hard codded);
+    Caso digite 2 - Verifica quantidade e disponibilidade de um produto no estoque ou no cache caso já tenha sido acessado;
+    Caso digite 3 - Adiciona produtos ao estoque;
+    Caso digite 4 - Remove produtos do estoque;
+    Caso digite 5 - Busca produtos com 0 de quantidade no estoque;
+    Caso digite 6 - Edita um filme no catálogo;
+
+
+    Só são aceitos inserções de quantidade de 0 a 999 produtos.
+    Não são aceitos pontos e virgulas.
+    Tentativas de entrada maliciosa vão retornar erros.
+    Outros valores digitados de escolha será alertado um erro;
